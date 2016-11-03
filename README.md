@@ -1,7 +1,7 @@
-View GitHub Contributions
-=========================
+View GitHub Commits
+===================
 
-TODO
+A Google Chrome extension that displays monthly GitHub commits in your contributions graph.
 
 Download
 --------
