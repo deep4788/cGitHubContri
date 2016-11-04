@@ -1,11 +1,13 @@
 View GitHub Commits
 ===================
 
+![](images/appImage.png)
+
 A Google Chrome extension that displays monthly GitHub commits in your contributions graph.
 
-Download
---------
-Download it on Google Chrome from [Webstore](TODO)
+Install
+-------
+Install it on Google Chrome from [Webstore](TODO)
 
 Getting Started
 ---------------
@@ -15,10 +17,6 @@ Within Google Chrome go to:
 - Enable Developer Mode
 - Load unpacked extensions
 - Test
-
-Screenshot
-----------
-![](images/appImage.png)
 
 Author
 ------
