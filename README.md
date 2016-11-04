@@ -7,7 +7,7 @@ A Google Chrome extension that displays monthly GitHub commits in your contribut
 
 Install
 -------
-Install it on Google Chrome from [Webstore](TODO)
+Install it on Google Chrome from [Webstore](https://chrome.google.com/webstore/detail/view-github-commits/cbeaaclmmogoehebfjojkhkcepjecbmd)
 
 Getting Started
 ---------------
