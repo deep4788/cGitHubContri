@@ -9,6 +9,8 @@ Install
 -------
 Install it on Google Chrome from [Webstore](https://chrome.google.com/webstore/detail/view-github-commits/cbeaaclmmogoehebfjojkhkcepjecbmd)
 
+NOTE: It this link does not work, you can get the source code from here and install it by following the steps mentioned in Getting Started section.
+
 Getting Started
 ---------------
 Within Google Chrome go to:
